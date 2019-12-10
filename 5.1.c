@@ -46,7 +46,6 @@ int main()
 	fillArr(arr, 30);
 	showArr(arr, 30);
 	arr = sort(arr, 30);
-	Продолжение листинга 1
-showArr(arr, 30);
+	showArr(arr, 30);
 	return 0;
 }
